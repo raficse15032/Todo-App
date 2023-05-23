@@ -5,7 +5,7 @@ We can todo list create,update,delete and chnage status like pending or complete
 
 Using Vue3-Composition-API, Typescript, Pinia, Firebase, Vuetify-3 and Vite.
 
-Try to use new feature of Vue3, Like Composition API, Composable, Reactive-Provide-Inject and Vuetify 3 features
+Try to use Typescript with new feature of Vue3, Like Composition API, Composable, Reactive-Provide-Inject and Vuetify 3 features
 
 ## Demo
 
